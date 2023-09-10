@@ -1,4 +1,4 @@
-setwd("C:/Users/dhiam/OneDrive - Deakin University/PostDoc_VU/miRNA_project")
+setwd("...")
 
 library(tidyverse)
 library(readxl)
